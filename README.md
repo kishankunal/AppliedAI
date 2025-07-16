@@ -1,1 +1,3 @@
 # AppliedAI
+
+# Projects repo
