@@ -2,4 +2,11 @@
 .venv
 .DS_Store
 /runs
+/practice/
 __pycache__/
+*.txt
+*.jpg
+*.png
+*.pt
+*.db
+.env
