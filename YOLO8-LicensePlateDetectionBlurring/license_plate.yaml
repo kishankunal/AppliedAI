@@ -1,0 +1,6 @@
+names:
+- license_plate
+nc: 1
+test: /Users/kishankunal/workspace/AppliedAI/YOLO8-LicensePlateDetectionBlurring/data/images/test
+train: /Users/kishankunal/workspace/AppliedAI/YOLO8-LicensePlateDetectionBlurring/data/images/train
+val: /Users/kishankunal/workspace/AppliedAI/YOLO8-LicensePlateDetectionBlurring/data/images/val
