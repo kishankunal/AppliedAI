@@ -10,3 +10,4 @@ __pycache__/
 *.pt
 *.db
 .env
+/LoraFineTuning/lora_env
