@@ -19,5 +19,5 @@ def assign_to_centroids(points, centroids):
     for point in points :
         nearest = min(range(k), key = lambda i: euclidean_distance(point, centroids[i]))
         assignments.append(nearest)
-
+ 
     return assignments
